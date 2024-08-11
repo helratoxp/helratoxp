@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Alexandre 😁
+## Bem-vindo ao meu perfil 😁
 
  <div>
    <a href="https://github.com/helratoxp">
